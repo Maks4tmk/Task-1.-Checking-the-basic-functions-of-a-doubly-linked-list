@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\Netology\source\repos\Задача 1. Проверка базовых функций двусвзяного списка\Checking_list_function.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\Netology\source\repos\Задача 1. Проверка базовых функций двусвзяного списка\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{887126C9-C36D-36A7-8540-8B52F74378D0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
